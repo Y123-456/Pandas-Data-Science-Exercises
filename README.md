@@ -6,8 +6,7 @@ Code examples for leveraging Pandas in Python to perform efficient data analysis
 - [Introduction](#introduction)
 - [Content](#content)
 - [License](#license)
-- [Contributing](#contributing)
-- [Contact](#contact)
+- [Installation](#installation)
 
 ## Introduction
 
@@ -23,6 +22,16 @@ Here you will find code snippets on various topics including:
 - Other Functions
 
 ## License
+
+This repository contains code that is shared under the MIT License. Please note that:
+
+- You are free to view, copy, use, modify, and distribute the code, including for commercial purposes.
+- Any redistributed copies of the code must include the same MIT License and copyright notice.
+- The code is provided "as is," without any warranty of any kind. The authors are not liable for any claims, damages, or other liabilities arising from the use of the code.
+
+For detailed licensing information, please refer to the `LICENSE` file in this repository.
+
+Thank you for respecting these guidelines.
 
 ## Installation
 
